@@ -30,12 +30,12 @@ body {
             padding: 1em;
         }
 
-        content-section {
+        content {
             flex: 4;
             display: flex;
         }
 
-        article {
+      content > article {
             flex: 3;
             padding: 1em;
             min-height: 60vh;
