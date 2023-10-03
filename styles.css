@@ -44,9 +44,5 @@ body {
         aside {
             flex: 1;
             padding: 1em;
+			background-color:#F5F5DC;
         }
-@media screen and (max-width: 600px) {
-  body {
-    background-color: lightblue;
-  }
-}
