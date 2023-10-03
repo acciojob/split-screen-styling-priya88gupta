@@ -31,7 +31,7 @@ body {
             display: flex;
         }
 
-      content-section>article-section {
+      content-section>article{
             flex: 3;
             padding: 1em;
             min-height: 60vh;
