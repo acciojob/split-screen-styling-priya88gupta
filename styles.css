@@ -26,17 +26,17 @@ body {
             padding: 1em;
         }
 
-        content-section {
+        content{
             flex: 4;
             display: flex;
         }
 
-      content-section>article{
+      content>article{
             flex: 3;
             padding: 1em;
             min-height: 60vh;
         }
-        content-section>aside {
+        content>aside {
             flex: 1;
             padding: 1em;
 			background-color:#F5F5DC;
